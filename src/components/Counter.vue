@@ -18,7 +18,6 @@ export default {
   data() {
     return {
       items: [{ counter: 0 }, { counter: 0 }, { counter: 0 }, { counter: 0 }]
-      //asta cred ca putea sa fie mai easy fara object si nu ar fi nevoie de practici neortodoxe la submit
     };
   },
   methods: {
